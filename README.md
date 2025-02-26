@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @joniek
-- 👀 I’m interested in data especially human behaviour on social media, and dungeons and dragons.
-- 🌱 I’m currently learning python, pandas, and javascript, specifically for Google Workspaces.
-- 💞️ I’m looking to collaborate on things related to finding insights on human behaviour, building productivity tools for Google Workspaces.
-- 📫 How to reach me ... tbc
+- 👀 I'm a data analyst who likes puzzles. 
+- 🌱 I’m currently working on my skills on python, javascript, and data visualisation techniques.
+- 📫 Drop me a line so we can collaborate together!
 
 <!---
 joniek/joniek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
